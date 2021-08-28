@@ -6,7 +6,9 @@
   "description": "A fully customizable FE powered jetpacks mod!",
   "authors": [
     "BlakeBr0",
-    "shedaniel"
+    "shedaniel",
+    "bushtail",
+    "lmvdzande"
   ],
   "license": "MIT",
   "icon": "assets/iron-jetpacks/icon.png",
